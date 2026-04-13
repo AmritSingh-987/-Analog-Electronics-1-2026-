@@ -29,7 +29,6 @@ Revision: 14 (2023)
 |------|-------------|
 | `README.md` | Overview, manufacturer, application |
 | `explanation.md` | In-depth analysis of key electrical parameters |
-| `datasheet-link.txt` | Plain-text datasheet URL for quick reference |
 
 ---
 
