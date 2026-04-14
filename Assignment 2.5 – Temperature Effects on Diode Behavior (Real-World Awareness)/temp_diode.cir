@@ -1,0 +1,11 @@
+* Assignment 2.5 - DC Sweep for 1N4148 Diode Temperature Analysis
+
+V1 in 0 0
+R1 in a 1k
+D1 a 0 1N4148
+
+.lib standard.dio
+.dc V1 -2 2 0.01
+.step temp list 25 75
+
+.end
