@@ -1,0 +1,9 @@
+* Assignment 2.6 - Diode Protection Circuit for 12V DC Input
+
+V1 in 0 DC 12
+D1 in out 1N5819
+Rload out 0 1k
+
+.lib standard.dio
+.op
+.end
